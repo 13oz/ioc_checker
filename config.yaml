@@ -1,0 +1,11 @@
+virustotal:
+  enabled: false
+  api: <your api key here>
+
+otx:
+  enabled: false
+  api: <your api key here>
+
+sigma:
+  enabled: false
+  target_siem: none
